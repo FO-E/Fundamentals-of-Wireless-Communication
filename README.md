@@ -7,7 +7,7 @@
 * Wireless System
 * Book Outline
   
-#### CHAPTER 2 : [The Wireless Channel](/Slides Summary/CHAPTER_2.pdf)
+#### CHAPTER 2 : [The Wireless Channel](/Slides_Summary/CHAPTER_2.pdf)
 
 * Physical Modeling for Wireless Channels
 * Input/Output Model of the Wireless Channel
