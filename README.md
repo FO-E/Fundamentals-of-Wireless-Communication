@@ -21,3 +21,9 @@
 * Antenna Diversity
 * Frequency Diversity
 * Impact of Channel Uncertainty
+
+#### CHAPTER 4 : [Cellular Systems: Multiple Access and Interference Management](/Slides_Summary/CHAPTER_4.pdf)
+
+* Narrowband Cellular Systems
+* Wideband Systems: CDMA
+* Wideband Systems: OFDM
