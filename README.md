@@ -13,3 +13,11 @@
 * Input/Output Model of the Wireless Channel
 * Time and Frequency Coherence
 * Statistical Channel Models
+
+#### CHAPTER 3 : [Point-to-Point Communication](/Slides_Summary/CHAPTER_3.pdf)
+
+* Detection in a Rayleigh Fading Channel
+* Time Diversity
+* Antenna Diversity
+* Frequency Diversity
+* Impact of Channel Uncertainty
