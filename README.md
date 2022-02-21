@@ -27,3 +27,19 @@
 * Narrowband Cellular Systems
 * Wideband Systems: CDMA
 * Wideband Systems: OFDM
+
+#### CHAPTER 5 : [Capacity of Wireless Channels](/Slides_Summary/CHAPTER_5.pdf)
+
+* AWGN Channel Capacity
+* Resources of the AWGN Channel
+* Linear Time-Invariant Gaussian Channels
+* Capacity of Fading Channels
+
+#### CHAPTER 6: [Multiuser Capacity and Oppotunistic Communication](/Slides_Summary/CHAPTER_6.pdf)
+
+* Uplink AWGN Channel
+* Downlink AWGN Channel
+* Uplink Fading Channel 
+* Downlink Fading Channel
+* Frequency-Selective Fading Channels
+* Multiuser Diversity
